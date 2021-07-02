@@ -2,16 +2,7 @@
 
 Visualizing sorting algorithms, using the matplotlib library.
 
-Algorithms covered:
-
-| Name | Function Name |
-| - |:-: |
-| Quick Sort | quick_sort |
-| Bubble Sort | bubble_sort |
-| Selection Sort | selection_sort |
-| Insertion Sort | insertion_sort |
-| Heap Sort | heap_sort |
-| Merge Sort | merge_sort |
+Algorithms covered: quick_sort, bubble_sort, selection_sort, insertion_sort, heap_sort, merge_sort
 
 Run
 
